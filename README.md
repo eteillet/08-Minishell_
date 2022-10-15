@@ -37,4 +37,4 @@
         -  library and database which enables programs to use display computer terminals in a device-independent manner
     5. tests
 
-![](https://github.com/eteillet/08-Minishell_/minishell.png)
+![](https://github.com/eteillet/08-Minishell_/blob/main/minishell.png)
